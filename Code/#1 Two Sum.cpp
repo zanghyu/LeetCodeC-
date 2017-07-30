@@ -1,6 +1,22 @@
-/* 这道题没啥好说的，就是简单的两个循环
-*  值得留意的是vector的用法，vector插入值是调用insert函数
+/*
+棰樼洰
+Given an array of integers, return indices of the two numbers such that they add up to a specific target.
+
+You may assume that each input would have exactly one solution, and you may not use the same element twice.
+
+Example:
+Given nums = [2, 7, 11, 15], target = 9,
+
+Because nums[0] + nums[1] = 2 + 7 = 9,
+return [0, 1].
 */
+
+
+/* 
+鎬濊矾
+杩欓亾棰樻病鍟ュソ璇寸殑锛屽氨鏄畝鍗曠殑涓や釜寰幆
+鍊煎緱鐣欐剰鐨勬槸vector鐨勭敤娉曪紝vector鎻掑叆鍊兼槸璋冪敤insert鍑芥暟
+ */
 
 
 class Solution {
