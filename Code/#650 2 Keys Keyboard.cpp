@@ -1,4 +1,4 @@
-/*
+﻿/*
 问题：
 Initially on a notepad only one character 'A' is present. You can perform two operations on this notepad for each step:
 
@@ -31,10 +31,9 @@ public:
     int minSteps(int n) {
         const int prime[] = { 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37,
 			41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97 };
-		if (n <= 5)return n == 1 ? 0 : n;
-		for (auto i : prime)
-			if (n%i==0)
-				return i + minSteps(n / i);
-		return n;
+	if (n <= 5)return n == 1 ? 0 : n;
+	for (auto i : prime)
+	    if (n%i==0)return i + minSteps(n / i);
+	return n;
     }
 };
