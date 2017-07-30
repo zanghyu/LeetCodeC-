@@ -1,4 +1,4 @@
-/*
+﻿/*
 题目
 Given an array of integers, return indices of the two numbers such that they add up to a specific target.
 
@@ -23,14 +23,14 @@ class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
         for (int i = 0; i < nums.size();i++) {
-			for (int j = 0;j < i; j++) {
-				if (nums.at(i) + nums.at(j) == target) {
-					vector<int> res;
-					res.insert(res.end(),j);
-					res.insert(res.end(),i);
-					return res;
-				}
-			}
-		}
+	    for (int j = 0;j < i; j++) {
+	        if (nums.at(i) + nums.at(j) == target) {
+		    vector<int> res;
+		    res.insert(res.end(),j);
+		    res.insert(res.end(),i);
+		    return res;
+ 		}
+            }
+	}
     }
 };
