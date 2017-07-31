@@ -15,4 +15,6 @@
 |6|[#6 ZigZag Conversion.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%236%20ZigZag%20Conversion.cpp)|Medium|Cpp||
 |7|[#650 2 Keys Keyboard.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%23650%202%20Keys%20Keyboard.cpp)|Medium|Cpp||
 |8|[#7 Reverse Integer.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%237%20Reverse%20Integer.cpp)|Easy|Cpp||
-s
+|9|[#8 String to Integer (atoi).cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%238%20String%20to%20Integer%20(atoi).cpp)|Mediumm|Cpp||
+|10|[#9 Palindrome Number.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%239%20Palindrome%20Number.cpp)|Easy|Cpp||
+|11|[#10 Regular Expression Matching.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2310%20Regular%20Expression%20Matching.cpp)|Hard|Cpp||
