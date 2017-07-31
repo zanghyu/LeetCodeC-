@@ -14,4 +14,5 @@
 |5|[#5 Longest Palindromic Substring.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%235%20Longest%20Palindromic%20Substring.cpp)|Medium|Cpp||
 |6|[#6 ZigZag Conversion.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%236%20ZigZag%20Conversion.cpp)|Medium|Cpp||
 |7|[#650 2 Keys Keyboard.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%23650%202%20Keys%20Keyboard.cpp)|Medium|Cpp||
-|8|[#7 Reverse Integer.cpp]()|Easy|Cpp||
+|8|[#7 Reverse Integer.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%237%20Reverse%20Integer.cpp)|Easy|Cpp||
+s
