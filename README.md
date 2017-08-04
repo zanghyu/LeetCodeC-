@@ -20,3 +20,7 @@
 |11|[#10 Regular Expression Matching.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2310%20Regular%20Expression%20Matching.cpp)|Hard|Cpp||
 |12|[#11 Container With Most Water.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2311%20Container%20With%20Most%20Water.cpp)|Mediumm|Cpp||
 |13|[#12 Integer to Roman.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2312%20Integer%20to%20Roman.cpp)|Mediumm|Cpp||
+|14|[#13 Roman to Integer.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2313%20Roman%20to%20Integer.cpp)|Easy|Cpp||
+|15|[#14 Longest Common Prefix.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2314%20Longest%20Common%20Prefix.cpp)|Easy|Cpp||
+|16|[#15 3Sum.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2315%203Sum.cpp)|Mediumm|Cpp||
+|17|[#16 3Sum Closest.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2316%203Sum%20Closest.cpp)|Mediumm|Cpp||
