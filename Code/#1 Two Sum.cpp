@@ -16,6 +16,11 @@ return [0, 1].
 思路
 这道题没啥好说的，就是简单的两个循环
 值得留意的是vector的用法，vector插入值是调用insert函数
+
+类似题型：
+#15 3Sum
+#16 3Sum Closest
+
  */
 
 
