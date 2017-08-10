@@ -29,3 +29,7 @@
 |20|[#19 Remove Nth Node From End of List.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2319%20Remove%20Nth%20Node%20From%20End%20of%20List.cpp)|Medium|Cpp||
 |21|[#20 Valid Parentheses.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2320%20Valid%20Parentheses.cpp)|Easy|Cpp||
 |22|[#21 Merge Two Sorted Lists.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2321%20Merge%20Two%20Sorted%20Lists.cpp)|Easy|Cpp||
+|23|[#22 Generate Parentheses.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2322%20Generate%20Parentheses.cpp)|Medium|Cpp||
+|24|[#23 Merge k Sorted Lists.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2323%20Merge%20k%20Sorted%20Lists.cpp)|Hard|Cpp||
+|25|[#24 Swap Nodes in Pairs.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2324%20Swap%20Nodes%20in%20Pairs.cpp)|Medium|Cpp||
+|26|[#25 Reverse Nodes in k-Group.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2325%20Reverse%20Nodes%20in%20k-Group.cpp)|Hard|Cpp||
