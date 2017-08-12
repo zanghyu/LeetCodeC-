@@ -33,3 +33,6 @@
 |24|[#23 Merge k Sorted Lists.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2323%20Merge%20k%20Sorted%20Lists.cpp)|Hard|Cpp||
 |25|[#24 Swap Nodes in Pairs.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2324%20Swap%20Nodes%20in%20Pairs.cpp)|Medium|Cpp||
 |26|[#25 Reverse Nodes in k-Group.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2325%20Reverse%20Nodes%20in%20k-Group.cpp)|Hard|Cpp||
+|27|[#26 Remove Duplicates from Sorted Array.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2326%20Remove%20Duplicates%20from%20Sorted%20Array.cpp)|Easy|Cpp||
+|28|[#27 Remove Element.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2327%20Remove%20Element.cpp)|Easy|Cpp||
+|29|[#28 Implement strStr().cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2328%20Implement%20strStr().cpp)|Easy|Cpp||
