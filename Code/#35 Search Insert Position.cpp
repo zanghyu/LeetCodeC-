@@ -14,7 +14,7 @@ Here are few examples.
 
 /*
 思路：
-直接遍历可以过。o(lgn)可以用二分
+这道题二分反而比直接遍历要慢...大概是因为数据量太少的原因吧...
 */
 
 /*
@@ -40,3 +40,19 @@ public:
 /*
 二分
 */
+class Solution {
+public:
+    int searchInsert(vector<int>& nums, int target) {
+	int pos = 0;
+	int low = 0, high = nums.size() - 1;
+	int mid = (low + high) / 2;
+	while (low < high) {
+	    if (nums[mid] > target)high = mid - 1;
+	    if (nums[mid] < target)low = mid + 1;
+	    mid = (low + high) / 2;
+	    if (nums[mid] == target)return mid;
+	}
+	if (target <= nums[low])return low;
+	else if (target > nums[high])return high+1;
+    }
+};
