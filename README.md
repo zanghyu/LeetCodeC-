@@ -36,3 +36,10 @@
 |27|[#26 Remove Duplicates from Sorted Array.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2326%20Remove%20Duplicates%20from%20Sorted%20Array.cpp)|Easy|Cpp||
 |28|[#27 Remove Element.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2327%20Remove%20Element.cpp)|Easy|Cpp||
 |29|[#28 Implement strStr().cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2328%20Implement%20strStr().cpp)|Easy|Cpp||
+|30|[#29 Divide Two Integers.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2329%20Divide%20Two%20Integers.cpp)|Medium|Cpp||
+|31|[#30 Substring with Concatenation of All Words.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2330%20Substring%20with%20Concatenation%20of%20All%20Words.cpp)|Hard|Cpp||
+|32|[#31 Next Permutation.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2331%20Next%20Permutation.cpp)|Medium|Cpp||
+|33|[#32 Longest Valid Parentheses.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2332%20Longest%20Valid%20Parentheses.cpp)|Hard|Cpp||
+|34|[#33 Search in Rotated Sorted Array.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2333%20Search%20in%20Rotated%20Sorted%20Array.cpp)|Medium|Cpp||
+|35|[#34 Search for a Range.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2334%20Search%20for%20a%20Range.cpp)|Medium|Cpp||
+|36|[#35 Search Insert Position.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2335%20Search%20Insert%20Position.cpp)|Easy|Cpp||
