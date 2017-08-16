@@ -43,3 +43,11 @@
 |34|[#33 Search in Rotated Sorted Array.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2333%20Search%20in%20Rotated%20Sorted%20Array.cpp)|Medium|Cpp||
 |35|[#34 Search for a Range.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2334%20Search%20for%20a%20Range.cpp)|Medium|Cpp||
 |36|[#35 Search Insert Position.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2335%20Search%20Insert%20Position.cpp)|Easy|Cpp||
+|37|[]()|Medium|Cpp||
+|38|[]()|Hard|Cpp||
+|39|[]()|Easy|Cpp||
+|40|[]()|Medium|Cpp||
+|41|[]()|Medium|Cpp||
+|42|[]()|Hard|Cpp||
+|43|[]()|Hard|Cpp||
+|44|[]()|Medium|Cpp||
