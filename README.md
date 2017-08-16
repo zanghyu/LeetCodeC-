@@ -43,11 +43,11 @@
 |34|[#33 Search in Rotated Sorted Array.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2333%20Search%20in%20Rotated%20Sorted%20Array.cpp)|Medium|Cpp||
 |35|[#34 Search for a Range.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2334%20Search%20for%20a%20Range.cpp)|Medium|Cpp||
 |36|[#35 Search Insert Position.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2335%20Search%20Insert%20Position.cpp)|Easy|Cpp||
-|37|[]()|Medium|Cpp||
-|38|[]()|Hard|Cpp||
-|39|[]()|Easy|Cpp||
-|40|[]()|Medium|Cpp||
-|41|[]()|Medium|Cpp||
-|42|[]()|Hard|Cpp||
+|37|[#36 Valid Sudoku.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2336%20Valid%20Sudoku.cpp)|Medium|Cpp||
+|38|[#37 Sudoku Solver.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2337%20Sudoku%20Solver.cpp)|Hard|Cpp||
+|39|[#38 Count and Say.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2338%20Count%20and%20Say.cpp)|Easy|Cpp||
+|40|[#39 Combination Sum.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2339%20Combination%20Sum.cpp)|Medium|Cpp||
+|41|[#40 Combination Sum II.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2340%20Combination%20Sum%20II.cpp)|Medium|Cpp||
+|42|[#41 First Missing Positive.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2341%20First%20Missing%20Positive.cpp)|Hard|Cpp||
 |43|[]()|Hard|Cpp||
-|44|[]()|Medium|Cpp||
+|44|[#43 Multiply Strings.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2343%20Multiply%20Strings.cpp)|Medium|Cpp||
