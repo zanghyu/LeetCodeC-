@@ -49,5 +49,9 @@
 |40|[#39 Combination Sum.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2339%20Combination%20Sum.cpp)|Medium|Cpp||
 |41|[#40 Combination Sum II.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2340%20Combination%20Sum%20II.cpp)|Medium|Cpp||
 |42|[#41 First Missing Positive.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2341%20First%20Missing%20Positive.cpp)|Hard|Cpp||
-|43|[]()|Hard|Cpp||
+|43|[#42 Trapping Rain Water.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2342%20Trapping%20Rain%20Water.cpp)|Hard|Cpp||
 |44|[#43 Multiply Strings.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2343%20Multiply%20Strings.cpp)|Medium|Cpp||
+|45|[#44 Wildcard Matching.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2344%20Wildcard%20Matching.cpp)|Hard|Cpp||
+|46|[#45 Jump Game II.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2345%20Jump%20Game%20II.cpp)|Hard|Cpp||
+|47|[#46 Permutations.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2346%20Permutations.cpp)|Medium|Cpp||
+|48|[#47 Permutations II.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2347%20Permutations%20II.cpp)|Medium|Cpp||
