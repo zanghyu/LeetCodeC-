@@ -1,5 +1,5 @@
 /*
-ÎÊÌâ£º
+é—®é¢˜ï¼š
 Find the contiguous subarray within an array (containing at least one number) which has the largest sum.
 
 For example, given the array [-2,1,-3,4,-1,2,1,-5,4],
@@ -7,8 +7,8 @@ the contiguous subarray [4,-1,2,1] has the largest sum = 6.
 */
 
 /*
-Ë¼Â·£º
-Ì°ĞÄ
+æ€è·¯ï¼š
+è´ªå¿ƒ
 */
 
 class Solution {
