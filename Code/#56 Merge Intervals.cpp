@@ -1,5 +1,5 @@
 /*
-���⣺
+问题：
 
 Given a collection of intervals, merge all overlapping intervals.
 
@@ -11,8 +11,8 @@ return [1,6],[8,10],[15,18].
 */
 
 /*
-˼·��
-ͦ�򵥵�...
+思路：
+挺简单的...直接看代码就行
 */
 
 class Solution {
