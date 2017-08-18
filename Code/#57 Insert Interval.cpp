@@ -29,42 +29,42 @@ This is because the new interval [4,9] overlaps with [3,5],[6,7],[8,10].
  */
 class Solution {
 public:
-	vector<Interval> insert(vector<Interval>& intervals, Interval newInterval) {
-		if (intervals.empty()) {
-			vector<Interval>res;
-			res.push_back(newInterval);
-			return res;
-		}
-		int flag = 0;
-		int i = 0;
-		for (;i < intervals.size();i++) {
-			if (intervals[i].end >= newInterval.start&&intervals[i].start<=newInterval.start) {
-				intervals[i].end = max(newInterval.end, intervals[i].end);
-				intervals[i].start = min(newInterval.start, intervals[i].start);
-				flag = 1;
-				break;
-			}
-			else if (!flag && intervals[i].end >= newInterval.start && intervals[i].start > newInterval.start) {
-				intervals.insert(intervals.begin() + i, newInterval);
-				flag = 1;
-				break;
-			}
-		}
-		if (!flag) {
-			intervals.push_back(newInterval);
-			return intervals;
-		}
-		return merge(intervals);
-	}
-	vector<Interval> merge(vector<Interval>& intervals) {
-		if (intervals.empty())return{};
-		sort(intervals.begin(), intervals.end(), [](Interval a, Interval b) {return a.start<b.start;});
-		vector<Interval> res;
-		res.push_back(intervals[0]);
-		for (int i = 1;i < intervals.size();i++) {
-			if (res.back().end < intervals[i].start)res.push_back(intervals[i]);
-			else res.back().end = max(res.back().end, intervals[i].end);
-		}
-		return res;
-	}
+   vector<Interval> insert(vector<Interval>& intervals, Interval newInterval) {
+      if (intervals.empty()) {
+         vector<Interval>res;
+         res.push_back(newInterval);
+         return res;
+      }
+      int flag = 0;
+      int i = 0;
+      for (;i < intervals.size();i++) {
+         if (intervals[i].end >= newInterval.start&&intervals[i].start<=newInterval.start) {
+            intervals[i].end = max(newInterval.end, intervals[i].end);
+            intervals[i].start = min(newInterval.start, intervals[i].start);
+            flag = 1;
+            break;
+         }
+         else if (!flag && intervals[i].end >= newInterval.start && intervals[i].start > newInterval.start) {
+            intervals.insert(intervals.begin() + i, newInterval);
+            flag = 1;
+            break;
+         }
+      }
+      if (!flag) {
+         intervals.push_back(newInterval);
+         return intervals;
+      }
+      return merge(intervals);
+   }
+   vector<Interval> merge(vector<Interval>& intervals) {
+      if (intervals.empty())return{};
+      sort(intervals.begin(), intervals.end(), [](Interval a, Interval b) {return a.start<b.start;});
+      vector<Interval> res;
+      res.push_back(intervals[0]);
+      for (int i = 1;i < intervals.size();i++) {
+         if (res.back().end < intervals[i].start)res.push_back(intervals[i]);
+         else res.back().end = max(res.back().end, intervals[i].end);
+      }
+      return res;
+   }
 };
