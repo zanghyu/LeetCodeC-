@@ -60,8 +60,8 @@
 |51|[#50 Pow(x, n).cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2350%20Pow(x%2C%20n).cpp)|Medium|Cpp||
 |52|[]()|Hard|Cpp||
 |53|[]()|Hard|Cpp||
-|54|[]()|Easy|Cpp||
+|54|[#53 Maximum Subarray.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2353%20Maximum%20Subarray.cpp)|Easy|Cpp||
 |55|[#54 Spiral Matrix.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2354%20Spiral%20Matrix.cpp)|Medium|Cpp||
 |56|[#55 Jump Game.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2355%20Jump%20Game.cpp)|Medium|Cpp||
-|57|[]()|Medium|Cpp||
+|57|[#56 Merge Intervals.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2356%20Merge%20Intervals.cpp)|Medium|Cpp||
 |58|[#57 Insert Interval.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2357%20Insert%20Interval.cpp)|Hard|Cpp||
