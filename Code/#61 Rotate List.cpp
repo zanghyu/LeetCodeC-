@@ -23,26 +23,26 @@ return 4->5->1->2->3->NULL.
  */
 class Solution {
 public:
-	ListNode* rotateRight(ListNode* head, int k) {
-		ListNode* p = head;
-		int sum = 0;
-		while (p) {
-			sum++;
-			p = p->next;
-		}
-		if (sum <= 1||k==0||k%sum==0)return head;
+   ListNode* rotateRight(ListNode* head, int k) {
+      ListNode* p = head;
+      int sum = 0;
+      while (p) {
+         sum++;
+         p = p->next;
+      }
+      if (sum <= 1||k==0||k%sum==0)return head;
         k = k%sum;
-		p = head;
-		for (int i = 0;i < sum-k-1;i++) {
-			p = p->next;
-		}
-		ListNode* res = p->next;
-		p->next = NULL;
-		p = res;
-		for (int i = 0;i < k-1;i++) {
-			p = p->next;
-		}
-		p->next = head;
-		return res;
-	}
+      p = head;
+      for (int i = 0;i < sum-k-1;i++) {
+         p = p->next;
+      }
+      ListNode* res = p->next;
+      p->next = NULL;
+      p = res;
+      for (int i = 0;i < k-1;i++) {
+         p = p->next;
+      }
+      p->next = head;
+      return res;
+   }
 };

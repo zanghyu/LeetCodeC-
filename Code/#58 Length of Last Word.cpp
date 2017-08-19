@@ -19,13 +19,13 @@ return 5.
 
 class Solution {
 public:
-	int lengthOfLastWord(string s) {
-		int tmp = 0;
-		for (int i = s.length() - 1;i > -1;i--) {
-			if (tmp &&s[i] == ' ')return tmp - 1 - i;
-			else if (!tmp && s[i] != ' ')tmp = i + 1;
-		}
-		if (tmp)return tmp;
-		return 0;
-	}
+   int lengthOfLastWord(string s) {
+      int tmp = 0;
+      for (int i = s.length() - 1;i > -1;i--) {
+         if (tmp &&s[i] == ' ')return tmp - 1 - i;
+         else if (!tmp && s[i] != ' ')tmp = i + 1;
+      }
+      if (tmp)return tmp;
+      return 0;
+   }
 };

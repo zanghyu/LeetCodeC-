@@ -14,19 +14,19 @@ Note: Given n will be a positive integer.
 
 class Solution {
 public:
-	int f(int n) {
-		int num1 = 1;
-		int num2 = num1;
-		int num3 = num1;
-		while (n > 2) {
-			num3 = num1 + num2;
-			num1 = num2;
-			num2 = num3;
-			n--;
-		}
-		return num3;
-	}
-	int climbStairs(int n) {
-		return f(n+1);
-	}
+   int f(int n) {
+      int num1 = 1;
+      int num2 = num1;
+      int num3 = num1;
+      while (n > 2) {
+         num3 = num1 + num2;
+         num1 = num2;
+         num2 = num3;
+         n--;
+      }
+      return num3;
+   }
+   int climbStairs(int n) {
+      return f(n+1);
+   }
 };

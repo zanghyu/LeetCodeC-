@@ -16,16 +16,16 @@ Return "100".
 
 class Solution {
 public:
-	string addBinary(string a, string b) {
-		int i = a.size() - 1, j = b.size() - 1;
-		string res = "";
-		int c = 0;
-		while (i >= 0 || j >= 0 || c == 1) {
-			c += i >= 0 ? (int)(a[i--] - '0') : 0;
-			c += j >= 0 ? (int)(b[j--] - '0') : 0;
-			res = (char)(c % 2 + '0') + res;
-			c = c / 2;
-		}
-		return res;
-	}
+   string addBinary(string a, string b) {
+      int i = a.size() - 1, j = b.size() - 1;
+      string res = "";
+      int c = 0;
+      while (i >= 0 || j >= 0 || c == 1) {
+         c += i >= 0 ? (int)(a[i--] - '0') : 0;
+         c += j >= 0 ? (int)(b[j--] - '0') : 0;
+         res = (char)(c % 2 + '0') + res;
+         c = c / 2;
+      }
+      return res;
+   }
 };

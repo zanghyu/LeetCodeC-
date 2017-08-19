@@ -19,22 +19,22 @@ Note: m and n will be at most 100.
 
 class Solution {
 public:
-	int uniquePaths(int m, int n) {
-		int a[100][100];
-		for (int i = 0;i < 100;i++) {
-			a[i][0] = 1;
-		}
-		for (int i = 0;i < 100;i++) {
-			a[0][i] = 1;
-		}
-		for (int i = 0;i < 100;i++) {
-			a[1][i] = i+1;
-		}
-		for (int i = 2;i < 100;i++) {
-			for (int j = 1;j < 100;j++) {
-				a[i][j] = a[i][j-1] + a[i-1][j];
-			}
-		}
-		return a[m - 1][n - 1];
-	}
+   int uniquePaths(int m, int n) {
+      int a[100][100];
+      for (int i = 0;i < 100;i++) {
+         a[i][0] = 1;
+      }
+      for (int i = 0;i < 100;i++) {
+         a[0][i] = 1;
+      }
+      for (int i = 0;i < 100;i++) {
+         a[1][i] = i+1;
+      }
+      for (int i = 2;i < 100;i++) {
+         for (int j = 1;j < 100;j++) {
+            a[i][j] = a[i][j-1] + a[i-1][j];
+         }
+      }
+      return a[m - 1][n - 1];
+   }
 };
