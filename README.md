@@ -58,10 +58,30 @@
 |49|[#48 Rotate Image.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2348%20Rotate%20Image.cpp)|Medium|Cpp||
 |50|[#49 Group Anagrams.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2349%20Group%20Anagrams.cpp)|Medium|Cpp||
 |51|[#50 Pow(x, n).cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2350%20Pow(x%2C%20n).cpp)|Medium|Cpp||
-|52|[]()|Hard|Cpp||
-|53|[]()|Hard|Cpp||
+|52|[#51 N-Queens.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2351%20N-Queens.cpp)|Hard|Cpp||
+|53|[#52 N-Queens II.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2352%20N-Queens%20II.cpp)|Hard|Cpp||
 |54|[#53 Maximum Subarray.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2353%20Maximum%20Subarray.cpp)|Easy|Cpp||
 |55|[#54 Spiral Matrix.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2354%20Spiral%20Matrix.cpp)|Medium|Cpp||
 |56|[#55 Jump Game.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2355%20Jump%20Game.cpp)|Medium|Cpp||
 |57|[#56 Merge Intervals.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2356%20Merge%20Intervals.cpp)|Medium|Cpp||
 |58|[#57 Insert Interval.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2357%20Insert%20Interval.cpp)|Hard|Cpp||
+|59|[#58 Length of Last Word.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2358%20Length%20of%20Last%20Word.cpp)|Easy|cpp||
+|60|[]()| |cpp||
+|61|[]()| |cpp||
+|62|[#61 Rotate List.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2361%20Rotate%20List.cpp)|Medium|cpp||
+|63|[#62 Unique Paths.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2362%20Unique%20Paths.cpp)|Medium|cpp||
+|64|[#63 Unique Paths II.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2363%20Unique%20Paths%20II.cpp)|Medium|cpp||
+|65|[]()| |cpp||
+|66|[]()| |cpp||
+|67|[#66 Plus One.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2366%20Plus%20One.cpp)|Easy|cpp||
+|68|[#67 Add Binary.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2367%20Add%20Binary.cpp)|Easy|cpp||
+|69|[]()| |cpp||
+|70|[#69 Sqrt(x).cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2369%20Sqrt(x).cpp)|Easy|cpp||
+|71|[#70 Climbing Stairs.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2370%20Climbing%20Stairs.cpp)|Easy|cpp||
+|72|[]()| |cpp||
+|73|[]()| |cpp||
+|74|[]()| |cpp||
+|75|[]()| |cpp||
+|76|[]()| |cpp||
+|77|[]()| |cpp||
+|78|[]()| |cpp||
