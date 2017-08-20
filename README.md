@@ -66,22 +66,22 @@
 |57|[#56 Merge Intervals.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2356%20Merge%20Intervals.cpp)|Medium|Cpp||
 |58|[#57 Insert Interval.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2357%20Insert%20Interval.cpp)|Hard|Cpp||
 |59|[#58 Length of Last Word.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2358%20Length%20of%20Last%20Word.cpp)|Easy|cpp||
-|60|[]()| |cpp||
-|61|[]()| |cpp||
+|60|[#59 Spiral Matrix II.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2359%20Spiral%20Matrix%20II.cpp)|Medium|cpp||
+|61|[#60 Permutation Sequence.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2360%20Permutation%20Sequence.cpp)|Medium|cpp||
 |62|[#61 Rotate List.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2361%20Rotate%20List.cpp)|Medium|cpp||
 |63|[#62 Unique Paths.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2362%20Unique%20Paths.cpp)|Medium|cpp||
 |64|[#63 Unique Paths II.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2363%20Unique%20Paths%20II.cpp)|Medium|cpp||
-|65|[]()| |cpp||
-|66|[]()| |cpp||
+|65|[#64 Minimum Path Sum.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2364%20Minimum%20Path%20Sum.cpp)|Medium|cpp||
+|66|[#65 Valid Number.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2365%20Valid%20Number.cpp)|Hard|cpp||
 |67|[#66 Plus One.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2366%20Plus%20One.cpp)|Easy|cpp||
 |68|[#67 Add Binary.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2367%20Add%20Binary.cpp)|Easy|cpp||
-|69|[]()| |cpp||
+|69|[#68 Text Justification.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2368%20Text%20Justification.cpp)|Hard|cpp||
 |70|[#69 Sqrt(x).cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2369%20Sqrt(x).cpp)|Easy|cpp||
 |71|[#70 Climbing Stairs.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2370%20Climbing%20Stairs.cpp)|Easy|cpp||
-|72|[]()| |cpp||
-|73|[]()| |cpp||
-|74|[]()| |cpp||
-|75|[]()| |cpp||
-|76|[]()| |cpp||
+|72|[#71 Simplify Path.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2371%20Simplify%20Path.cpp)|Medium|cpp||
+|73|[#72 Edit Distance.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2372%20Edit%20Distance.cpp)|Hard|cpp||
+|74|[#73 Set Matrix Zeroes.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2373%20Set%20Matrix%20Zeroes.cpp)|Medium|cpp||
+|75|[#74 Search a 2D Matrix.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2374%20Search%20a%202D%20Matrix.cpp)|Medium|cpp||
+|76|[#75 Sort Colors.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2375%20Sort%20Colors.cpp)|Medium|cpp||
 |77|[]()| |cpp||
 |78|[]()| |cpp||
