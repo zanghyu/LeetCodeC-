@@ -85,3 +85,22 @@
 |76|[#75 Sort Colors.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2375%20Sort%20Colors.cpp)|Medium|cpp||
 |77|[]()| |cpp||
 |78|[]()| |cpp||
+|79|[]()| |cpp||
+|80|[]()| |cpp||
+|81|[]()| |cpp||
+|82|[]()| |cpp||
+|83|[]()| |cpp||
+|84|[]()| |cpp||
+|85|[]()| |cpp||
+|86|[]()| |cpp||
+|87|[]()| |cpp||
+|88|[]()| |cpp||
+|89|[]()| |cpp||
+|90|[]()| |cpp||
+|91|[]()| |cpp||
+|92|[]()| |cpp||
+|93|[]()| |cpp||
+|94|[]()| |cpp||
+|95|[]()| |cpp||
+|96|[]()| |cpp||
+|97|[]()| |cpp||
