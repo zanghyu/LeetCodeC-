@@ -83,15 +83,15 @@
 |74|[#73 Set Matrix Zeroes.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2373%20Set%20Matrix%20Zeroes.cpp)|Medium|cpp||
 |75|[#74 Search a 2D Matrix.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2374%20Search%20a%202D%20Matrix.cpp)|Medium|cpp||
 |76|[#75 Sort Colors.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2375%20Sort%20Colors.cpp)|Medium|cpp||
-|77|[]()| |cpp||
-|78|[]()| |cpp||
-|79|[]()| |cpp||
-|80|[]()| |cpp||
-|81|[]()| |cpp||
-|82|[]()| |cpp||
-|83|[]()| |cpp||
-|84|[]()| |cpp||
-|85|[]()| |cpp||
+|77|[#76 Minimum Window Substring.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2376%20Minimum%20Window%20Substring.cpp)|Hard|cpp||
+|78|[#77 Combinations.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2377%20Combinations.cpp)|Medium|cpp||
+|79|[#78 Subsets.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2378%20Subsets.cpp)|Medium|cpp||
+|80|[#79 Word Search.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2379%20Word%20Search.cpp)|Medium|cpp||
+|81|[#80 Remove Duplicates from Sorted Array II.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2380%20Remove%20Duplicates%20from%20Sorted%20Array%20II.cpp)|Medium|cpp||
+|82|[#81 Search in Rotated Sorted Array II.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2381%20Search%20in%20Rotated%20Sorted%20Array%20II.cpp)|Medium|cpp||
+|83|[#82 Remove Duplicates from Sorted List II.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2382%20Remove%20Duplicates%20from%20Sorted%20List%20II.cpp)|Medium|cpp||
+|84|[#83 Remove Duplicates from Sorted List.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2383%20Remove%20Duplicates%20from%20Sorted%20List.cpp)|Easy|cpp||
+|85|[#84 Largest Rectangle in Histogram.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2384%20Largest%20Rectangle%20in%20Histogram.cpp)|Hard|cpp||
 |86|[]()| |cpp||
 |87|[]()| |cpp||
 |88|[]()| |cpp||
