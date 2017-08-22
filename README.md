@@ -92,15 +92,15 @@
 |83|[#82 Remove Duplicates from Sorted List II.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2382%20Remove%20Duplicates%20from%20Sorted%20List%20II.cpp)|Medium|cpp||
 |84|[#83 Remove Duplicates from Sorted List.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2383%20Remove%20Duplicates%20from%20Sorted%20List.cpp)|Easy|cpp||
 |85|[#84 Largest Rectangle in Histogram.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2384%20Largest%20Rectangle%20in%20Histogram.cpp)|Hard|cpp||
-|86|[#85 Maximal Rectangle.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2385%20Maximal%20Rectangle.cpp)| |cpp||
-|87|[]()| |cpp||
-|88|[]()| |cpp||
-|89|[]()| |cpp||
-|90|[]()| |cpp||
-|91|[]()| |cpp||
-|92|[]()| |cpp||
-|93|[]()| |cpp||
-|94|[]()| |cpp||
-|95|[]()| |cpp||
+|86|[#85 Maximal Rectangle.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2385%20Maximal%20Rectangle.cpp)|Hard|cpp||
+|87|[#86 Partition List.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2386%20Partition%20List.cpp)|Medium|cpp||
+|88|[#87 Scramble String.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2387%20Scramble%20String.cpp)|Hard|cpp||
+|89|[#88 Merge Sorted Array.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2388%20Merge%20Sorted%20Array.cpp)|Easy|cpp||
+|90|[#89 Gray Code.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2389%20Gray%20Code.cpp)|Medium|cpp||
+|91|[#90 Subsets II.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2390%20Subsets%20II.cpp)|Medium|cpp||
+|92|[#91 Decode Ways.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2391%20Decode%20Ways.cpp)|Medium|cpp||
+|93|[#92 Reverse Linked List II.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2392%20Reverse%20Linked%20List%20II.cpp)|Medium|cpp||
+|94|[#93 Restore IP Addresses.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2393%20Restore%20IP%20Addresses.cpp)|Medium|cpp||
+|95|[]()||cpp||
 |96|[]()| |cpp||
 |97|[]()| |cpp||
