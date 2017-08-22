@@ -44,29 +44,24 @@ public:
 /*
 第二种思路：
 http://blog.csdn.net/yutianzuijin/article/details/52072427
-维护一个栈
+这里维护一个栈，用来保存递增序列，相当于上面那种方法的找局部峰值，当当前值小于栈顶值时，取出栈顶元素，然后计算当前矩形面积，然后再对比当前值和新的栈顶值大小，若还是栈顶值大，则再取出栈顶，算此时共同矩形区域面积，照此类推，可得最大矩形。其中i-1-s.top()是当前位置到栈顶位置的距离。
 */
 
 class Solution {
 public:
-    int largestRectangleArea(vector<int>& height) {
-        height.insert(height.begin(),0); // dummy "0" added to make sure stack s will never be empty
-        height.push_back(0); // dummy "0" added to clear the stack at the end
-        int len = height.size();
-        int i, res = 0, idx;
-        stack<int> s; // stack to save "height" index
-        s.push(0); // index to the first dummy "0"
-        for(i=1;i<len;i++)
-        {
-            while(height[i]<height[idx = s.top()]) // if the current entry is out of order
-            {
-                s.pop();
-                res = max(res, height[idx] * (i-s.top()-1) ); // note how the width is calculated, use the previous index entry
-            }
-            s.push(i);
-        }
-        height.erase(height.begin()); // remove two dummy "0"
-        height.pop_back();
-        return res;
-    }
+   int largestRectangleArea(vector<int>& heights) {
+      stack<int> s;
+      int res = 0;
+      heights.push_back(0);
+      for (int i = 0;i < heights.size();i++) {
+         while (!s.empty() && heights[s.top()] >= heights[i]) {
+            int h = heights[s.top()];
+            s.pop();
+            int len = s.empty() ? i : (i - 1 - s.top());
+            res = max(res, h*len);
+         }
+         s.push(i);
+      }
+      return res;
+   }
 };
