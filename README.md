@@ -103,4 +103,4 @@
 |94|[#93 Restore IP Addresses.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2393%20Restore%20IP%20Addresses.cpp)|Medium|cpp||
 |95|[]()||cpp||
 |96|[]()| |cpp||
-|97|[]()| |cpp||
+|97|[#96 Unique Binary Search Trees.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%2396%20Unique%20Binary%20Search%20Trees.cpp)|Medium|cpp||
