@@ -13,7 +13,6 @@
 |[#4 Median of Two Sorted Arrays.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%234%20Median%20of%20Two%20Sorted%20Arrays.cpp)|Hard|Cpp|
 |[#5 Longest Palindromic Substring.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%235%20Longest%20Palindromic%20Substring.cpp)|Medium|Cpp|
 |[#6 ZigZag Conversion.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%236%20ZigZag%20Conversion.cpp)|Medium|Cpp|
-|[#650 2 Keys Keyboard.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%23650%202%20Keys%20Keyboard.cpp)|Medium|Cpp|
 |[#7 Reverse Integer.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%237%20Reverse%20Integer.cpp)|Easy|Cpp|
 |[#8 String to Integer (atoi).cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%238%20String%20to%20Integer%20(atoi).cpp)|Medium|Cpp|
 |[#9 Palindrome Number.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%239%20Palindrome%20Number.cpp)|Easy|Cpp|
@@ -123,3 +122,4 @@
 |[#113 Path Sum II.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%23113%20Path%20Sum%20II.cpp)|Medium|cpp|
 |[#114 Flatten Binary Tree to Linked List.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%23114%20Flatten%20Binary%20Tree%20to%20Linked%20List.cpp)|Medium|cpp|
 |[]()| |cpp|
+|[#650 2 Keys Keyboard.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%23650%202%20Keys%20Keyboard.cpp)|Medium|Cpp|
