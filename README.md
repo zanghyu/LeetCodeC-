@@ -121,24 +121,24 @@
 |[#112 Path Sum.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%23112%20Path%20Sum.cpp)|Easy|Cpp|
 |[#113 Path Sum II.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%23113%20Path%20Sum%20II.cpp)|Medium|Cpp|
 |[#114 Flatten Binary Tree to Linked List.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%23114%20Flatten%20Binary%20Tree%20to%20Linked%20List.cpp)|Medium|Cpp|
-|[]()| |Cpp|
+|[#115 Distinct Subsequences.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%23115%20Distinct%20Subsequences.cpp)|Hard|Cpp|
+|[#116 Populating Next Right Pointers in Each Node.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%23116%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node.cpp)|Medium|Cpp||
+|[#117 Populating Next Right Pointers in Each Node II.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%23117%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node%20II.cpp)|Medium|Cpp||
+|[#118 Pascal's Triangle.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%23118%20Pascal's%20Triangle.cpp)|Easy|Cpp||
+|[#119 Pascal's Triangle II.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%23119%20Pascal's%20Triangle%20II.cpp)|Easy|Cpp||
+|[#120 Triangle.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%23120%20Triangle.cpp)|Medium|Cpp||
+|[#121 Best Time to Buy and Sell Stock.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%23121%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.cpp)|Easy|Cpp||
+|[#122 Best Time to Buy and Sell Stock II.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%23122%20%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.cpp)|Easy|Cpp||
+|[]()| |Cpp||
+|[]()| |Cpp||
+|[]()| |Cpp||
+|[]()| |Cpp||
+|[]()| |Cpp||
+|[]()| |Cpp||
+|[]()| |Cpp||
+|[]()| |Cpp||
+|[]()| |Cpp||
+|[]()| |Cpp||
+|[]()| |Cpp||
+|[]()| |Cpp||
 |[#650 2 Keys Keyboard.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%23650%202%20Keys%20Keyboard.cpp)|Medium|Cpp|
-|[]()| |Cpp||
-|[]()| |Cpp||
-|[]()| |Cpp||
-|[]()| |Cpp||
-|[]()| |Cpp||
-|[]()| |Cpp||
-|[]()| |Cpp||
-|[]()| |Cpp||
-|[]()| |Cpp||
-|[]()| |Cpp||
-|[]()| |Cpp||
-|[]()| |Cpp||
-|[]()| |Cpp||
-|[]()| |Cpp||
-|[]()| |Cpp||
-|[]()| |Cpp||
-|[]()| |Cpp||
-|[]()| |Cpp||
-|[]()| |Cpp||
