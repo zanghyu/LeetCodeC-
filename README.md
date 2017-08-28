@@ -141,4 +141,22 @@
 |[]()| |Cpp||
 |[]()| |Cpp||
 |[]()| |Cpp||
-|[#650 2 Keys Keyboard.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%23650%202%20Keys%20Keyboard.cpp)|Medium|Cpp|
+|[#650 2 Keys Keyboard.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%23650%202%20Keys%20Keyboard.cpp)|Medium|Cpp||[]()| |Cpp||
+|[]()| |Cpp||
+|[]()| |Cpp||
+|[]()| |Cpp||
+|[]()| |Cpp||
+|[]()| |Cpp||
+|[]()| |Cpp||
+|[]()| |Cpp||
+|[]()| |Cpp||
+|[]()| |Cpp||
+|[]()| |Cpp||
+|[]()| |Cpp||
+|[]()| |Cpp||
+|[]()| |Cpp||
+|[]()| |Cpp||
+|[]()| |Cpp||
+|[]()| |Cpp||
+|[]()| |Cpp||
+|[]()| |Cpp||
