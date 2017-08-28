@@ -138,25 +138,23 @@
 |[#129 Sum Root to Leaf Numbers.cpp](https://github.com/zanghyu/LeetCodeCpp/blob/master/Code/%23129%20Sum%20Root%20to%20Leaf%20Numbers.cpp)|Medium|Cpp||
 |[#130 Surrounded Regions.cpp](https://github.com/zanghyu/LeetCodeCpp/blob/master/Code/%23130%20Surrounded%20Regions.cpp)|Medium|Cpp||
 |[#131 Palindrome Partitioning.cpp](https://github.com/zanghyu/LeetCodeCpp/blob/master/Code/%23131%20Palindrome%20Partitioning.cpp)|Medium|Cpp||
+|[]()| |Cpp||
+|[]()| |Cpp||
 |[#134 Gas Station.cpp](https://github.com/zanghyu/LeetCodeCpp/blob/master/Code/%23134%20Gas%20Station.cpp)|Medium|Cpp||
+|[]()| |Cpp||
 |[#136 Single Number.cpp](https://github.com/zanghyu/LeetCodeCpp/blob/master/Code/%23136%20Single%20Number.cpp)|Easy|Cpp||
 |[#137 Single Number II.cpp](https://github.com/zanghyu/LeetCodeCpp/blob/master/Code/%23137%20Single%20Number%20II.cpp)|Medium|Cpp||
+|[]()| |Cpp||
+|[]()| |Cpp||
+|[]()| |Cpp||
+|[]()| |Cpp||
+|[]()| |Cpp||
+|[]()| |Cpp||
+|[]()| |Cpp||
+|[]()| |Cpp||
+|[]()| |Cpp||
+|[]()| |Cpp||
+|[]()| |Cpp||
+|[]()| |Cpp||
+|[]()| |Cpp||
 |[#650 2 Keys Keyboard.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%23650%202%20Keys%20Keyboard.cpp)|Medium|Cpp||[]()| |Cpp||
-|[#134 Gas Station.cpp](https://github.com/zanghyu/LeetCodeCpp/blob/master/Code/%23134%20Gas%20Station.cpp)| |Cpp||
-|[]()| |Cpp||
-|[]()| |Cpp||
-|[]()| |Cpp||
-|[]()| |Cpp||
-|[]()| |Cpp||
-|[]()| |Cpp||
-|[]()| |Cpp||
-|[]()| |Cpp||
-|[]()| |Cpp||
-|[]()| |Cpp||
-|[]()| |Cpp||
-|[]()| |Cpp||
-|[]()| |Cpp||
-|[]()| |Cpp||
-|[]()| |Cpp||
-|[]()| |Cpp||
-|[]()| |Cpp||
