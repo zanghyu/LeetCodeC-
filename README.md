@@ -144,17 +144,17 @@
 |[]()|Hard|Cpp||
 |[#136 Single Number.cpp](https://github.com/zanghyu/LeetCodeCpp/blob/master/Code/%23136%20Single%20Number.cpp)|Easy|Cpp||
 |[#137 Single Number II.cpp](https://github.com/zanghyu/LeetCodeCpp/blob/master/Code/%23137%20Single%20Number%20II.cpp)|Medium|Cpp||
+|[#138 Copy List with Random Pointer.cpp](https://github.com/zanghyu/LeetCodeCpp/blob/master/Code/%23138%20Copy%20List%20with%20Random%20Pointer.cpp)|Medium|Cpp||
+|[#139 Word Break.cpp](https://github.com/zanghyu/LeetCodeCpp/blob/master/Code/%23139%20Word%20Break.cpp)|Medium|Cpp||
+|[#140 Word Break II.cpp](https://github.com/zanghyu/LeetCodeCpp/blob/master/Code/%23140%20Word%20Break%20II.cpp)|Hard|Cpp||
+|[#141 Linked List Cycle.cpp](https://github.com/zanghyu/LeetCodeCpp/blob/master/Code/%23141%20Linked%20List%20Cycle.cpp)|Easy|Cpp||
+|[#142 Linked List Cycle II.cpp](https://github.com/zanghyu/LeetCodeCpp/blob/master/Code/%23142%20Linked%20List%20Cycle%20II.cpp)|Medium|Cpp||
 |[]()|Medium|Cpp||
-|[]()|Medium|Cpp||
+|[#144 Binary Tree Preorder Traversal.cpp](https://github.com/zanghyu/LeetCodeCpp/blob/master/Code/%23144%20Binary%20Tree%20Preorder%20Traversal.cpp)|Medium|Cpp||
+|[#145 Binary Tree Postorder Traversal.cpp](https://github.com/zanghyu/LeetCodeCpp/blob/master/Code/%23145%20Binary%20Tree%20Postorder%20Traversal.cpp)|Hard|Cpp||
 |[]()|Hard|Cpp||
-|[]()|Easy|Cpp||
-|[]()|Medium|Cpp||
-|[]()|Medium|Cpp||
-|[]()|Medium|Cpp||
+|[#147 Insertion Sort List.cpp](https://github.com/zanghyu/LeetCodeCpp/blob/master/Code/%23147%20Insertion%20Sort%20List.cpp)|Medium|Cpp||
+|[#148 Sort List.cpp](https://github.com/zanghyu/LeetCodeCpp/blob/master/Code/%23148%20Sort%20List.cpp)|Medium|Cpp||
 |[]()|Hard|Cpp||
-|[]()|Hard|Cpp||
-|[]()|Medium|Cpp||
-|[]()|Medium|Cpp||
-|[]()|Hard|Cpp||
-|[]()|Medium|Cpp||
+|[#150 Evaluate Reverse Polish Notation.cpp](https://github.com/zanghyu/LeetCodeCpp/blob/master/Code/%23150%20Evaluate%20Reverse%20Polish%20Notation.cpp)|Medium|Cpp||
 |[#650 2 Keys Keyboard.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%23650%202%20Keys%20Keyboard.cpp)|Medium|Cpp||[]()| |Cpp||
