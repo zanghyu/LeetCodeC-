@@ -138,10 +138,10 @@
 |[#129 Sum Root to Leaf Numbers.cpp](https://github.com/zanghyu/LeetCodeCpp/blob/master/Code/%23129%20Sum%20Root%20to%20Leaf%20Numbers.cpp)|Medium|Cpp||
 |[#130 Surrounded Regions.cpp](https://github.com/zanghyu/LeetCodeCpp/blob/master/Code/%23130%20Surrounded%20Regions.cpp)|Medium|Cpp||
 |[#131 Palindrome Partitioning.cpp](https://github.com/zanghyu/LeetCodeCpp/blob/master/Code/%23131%20Palindrome%20Partitioning.cpp)|Medium|Cpp||
-|[]()|Hard|Cpp||
-|[]()|Medium|Cpp||
+|[#132 Palindrome Partitioning II.cpp](https://github.com/zanghyu/LeetCodeCpp/blob/master/Code/%23132%20Palindrome%20Partitioning%20II.cpp)|Hard|Cpp||
+|[#133 Clone Graph.cpp](https://github.com/zanghyu/LeetCodeCpp/blob/master/Code/%23133%20Clone%20Graph.cpp)|Medium|Cpp||
 |[#134 Gas Station.cpp](https://github.com/zanghyu/LeetCodeCpp/blob/master/Code/%23134%20Gas%20Station.cpp)|Medium|Cpp||
-|[]()|Hard|Cpp||
+|[#135 Candy.cpp](https://github.com/zanghyu/LeetCodeCpp/blob/master/Code/%23135%20Candy.cpp)|Hard|Cpp||
 |[#136 Single Number.cpp](https://github.com/zanghyu/LeetCodeCpp/blob/master/Code/%23136%20Single%20Number.cpp)|Easy|Cpp||
 |[#137 Single Number II.cpp](https://github.com/zanghyu/LeetCodeCpp/blob/master/Code/%23137%20Single%20Number%20II.cpp)|Medium|Cpp||
 |[#138 Copy List with Random Pointer.cpp](https://github.com/zanghyu/LeetCodeCpp/blob/master/Code/%23138%20Copy%20List%20with%20Random%20Pointer.cpp)|Medium|Cpp||
@@ -149,12 +149,12 @@
 |[#140 Word Break II.cpp](https://github.com/zanghyu/LeetCodeCpp/blob/master/Code/%23140%20Word%20Break%20II.cpp)|Hard|Cpp||
 |[#141 Linked List Cycle.cpp](https://github.com/zanghyu/LeetCodeCpp/blob/master/Code/%23141%20Linked%20List%20Cycle.cpp)|Easy|Cpp||
 |[#142 Linked List Cycle II.cpp](https://github.com/zanghyu/LeetCodeCpp/blob/master/Code/%23142%20Linked%20List%20Cycle%20II.cpp)|Medium|Cpp||
-|[]()|Medium|Cpp||
+|[#143 Reorder List.cpp](https://github.com/zanghyu/LeetCodeCpp/blob/master/Code/%23143%20Reorder%20List.cpp)|Medium|Cpp||
 |[#144 Binary Tree Preorder Traversal.cpp](https://github.com/zanghyu/LeetCodeCpp/blob/master/Code/%23144%20Binary%20Tree%20Preorder%20Traversal.cpp)|Medium|Cpp||
 |[#145 Binary Tree Postorder Traversal.cpp](https://github.com/zanghyu/LeetCodeCpp/blob/master/Code/%23145%20Binary%20Tree%20Postorder%20Traversal.cpp)|Hard|Cpp||
-|[]()|Hard|Cpp||
+|[#146 LRU Cache.cpp](https://github.com/zanghyu/LeetCodeCpp/blob/master/Code/%23146%20LRU%20Cache.cpp)|Hard|Cpp||
 |[#147 Insertion Sort List.cpp](https://github.com/zanghyu/LeetCodeCpp/blob/master/Code/%23147%20Insertion%20Sort%20List.cpp)|Medium|Cpp||
 |[#148 Sort List.cpp](https://github.com/zanghyu/LeetCodeCpp/blob/master/Code/%23148%20Sort%20List.cpp)|Medium|Cpp||
-|[]()|Hard|Cpp||
+|[#149 Max Points on a Line.cpp](https://github.com/zanghyu/LeetCodeCpp/blob/master/Code/%23149%20Max%20Points%20on%20a%20Line.cpp)|Hard|Cpp||
 |[#150 Evaluate Reverse Polish Notation.cpp](https://github.com/zanghyu/LeetCodeCpp/blob/master/Code/%23150%20Evaluate%20Reverse%20Polish%20Notation.cpp)|Medium|Cpp||
 |[#650 2 Keys Keyboard.cpp](https://github.com/zanghyu/LeetCodeC-/blob/master/Code/%23650%202%20Keys%20Keyboard.cpp)|Medium|Cpp||[]()| |Cpp||
