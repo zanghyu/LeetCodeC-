@@ -26,13 +26,13 @@ Your algorithm should use only constant space. You may not modify the values in 
  */
 class Solution {
 public:
-	ListNode* swapPairs(ListNode* head) {
-		ListNode* p1 = head;
-		if (p1 == NULL)return head;
-		ListNode* p2 = head->next;
-		if (p2 == NULL)return head;
-		p1->next = swapPairs(p2->next);
-		p2->next = p1;
-		return p2;
-	}
+   ListNode* swapPairs(ListNode* head) {
+      ListNode* p1 = head;
+      if (p1 == NULL)return head;
+      ListNode* p2 = head->next;
+      if (p2 == NULL)return head;
+      p1->next = swapPairs(p2->next);
+      p2->next = p1;
+      return p2;
+   }
 };

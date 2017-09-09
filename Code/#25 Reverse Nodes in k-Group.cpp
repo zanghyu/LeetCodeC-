@@ -34,46 +34,33 @@ For k = 3, you should return: 3->2->1->4->5
  */
 class Solution {
 public:
-	ListNode* reverse(ListNode* head,ListNode* tail) {
-		ListNode* p = head;
-		ListNode* q = head->next;
-		ListNode* tmp = p;
-		ListNode* end = tail->next;
-		while (q!=NULL&&q!=end) {
-			p->next = q->next;		
-			q->next = tmp;
-			tmp = q;
-			q = p->next;
-		}
-		return tmp;
-	}
-	ListNode* reverseKGroup(ListNode* head,int n) {
-		if (head == NULL)return NULL;
-		if (head->next == NULL)return head;
-		ListNode* p = head;
-		ListNode* q = p;
-		for (int i = 1;i < n;i++) {
-			if (q == NULL)break;
-			q = q->next;
-		}
-		if (q == NULL || n == 1)return head;
-		ListNode* res = q;
-		ListNode* last = new ListNode(0);
-
-		while (q) {
-			if (q != NULL)q = reverse(p, q);
-			else q = reverse(p, NULL);
-			
-			last->next = q;
-			last = p;
-			p = p->next;
-			if (!p)break;
-			q = p->next;
-			for (int i = 2;i < n;i++) {
-				if (q == NULL)break;
-				q = q->next;
-			}
-		}
-		return res;
-	}
+   ListNode* reverseKGroup(ListNode* head, int k) {
+      ListNode* p = head;
+      ListNode* pre = head;
+      if (!p)return head;
+      for (int i = 0;i < k-1;i++) {
+         if(p->next)p = p->next;
+         else return head;
+      }
+      pre = p;
+      p = p->next;
+      pre->next = NULL;
+      reverse(head);
+      head->next = reverseKGroup(p, k);
+      return pre;
+   }
+   ListNode* reverse(ListNode* head) {
+      if (!head)return head;
+      ListNode* p1 = head;
+      ListNode* p2 = head->next;
+      if (!p2)return head;
+      ListNode* newHead = head;
+      while (p2) {
+         p1->next = p2->next;
+         p2->next = newHead;
+         newHead = p2;
+         p2 = p1->next;
+      }
+      return newHead;
+   }
 };
