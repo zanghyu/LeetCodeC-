@@ -23,7 +23,7 @@ Although the above answer is in lexicographical order, your answer could be in a
 /*
 思路：
 最开始想的是用类似于dfs树遍历来做，又想到用递归来做。总之问题就在自己的思路太局限了。
-看了discuss里的一个算法，只用了两层循环，完成了整个遍历的工作。感觉很值得学习……
+看了discuss里的一个算法，只用了三层循环，完成了整个遍历的工作。感觉很值得学习……
 */
 
 class Solution {
