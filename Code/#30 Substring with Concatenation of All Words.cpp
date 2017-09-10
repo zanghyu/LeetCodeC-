@@ -12,7 +12,8 @@ You should return the indices: [0,9].
 
 /*
 思路：
-这道题用到了unordered_map，用一个map保存每个word出现的次数，若所有的均连续出现，则将该初始位置放入数组。
+这道题用到了unordered_map，用一个map保存list中每个word出现的次数。然后在字符串s中从头开始找子串，如果子串没出现过或者出现次数多了，就break。如果所有list中的word都出现过一次了，那就保存到res中。
+
 */
 
 class Solution {

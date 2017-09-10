@@ -53,6 +53,6 @@ public:
 	    if (nums[mid] == target)return mid;
 	}
 	if (target <= nums[low])return low;
-	else if (target > nums[high])return high+1;
+	else if (target > nums[low])return low+1;
     }
 };

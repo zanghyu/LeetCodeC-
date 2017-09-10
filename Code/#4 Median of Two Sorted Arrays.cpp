@@ -24,28 +24,24 @@ The median is (2 + 3)/2 = 2.5
 
 class Solution {
 public:
-    double findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2) {
-        int pos = (nums1.size() + nums2.size()) / 2;
-	int i = 0, j = 0, now = 0;
-	int a, b;
-	int numtmp = -1;
-	while (true) {
-	    if (now == pos)a = numtmp;
-	    if (now == pos + 1) {
-		b = numtmp;
-		break;
-	    }
-	    if (j<nums2.size()&&((i >= nums1.size()) || (nums1.at(i)>nums2.at(j)))){
-	        numtmp = nums2.at(j);
-	        j++;
-	    }
-	    else {
-	        numtmp = nums1.at(i);
-	        i++;
-	    }
-	    now++;
-	}
-	if ((nums1.size() + nums2.size()) % 2)return b;
-	return (double)(a + b) / 2;
-    }
+   double findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2) {
+      int pos = (nums1.size() + nums2.size()) / 2;
+      int i = 0, j = 0, now = 0;
+      int a, b;
+      int numtmp = -1;
+      while (true) {
+         if (now == pos)a = numtmp;
+         if (now == pos + 1) {
+            b = numtmp;
+            break;
+         }
+         if (j<nums2.size() && ((i >= nums1.size()) || (nums1[i]>nums2[j]))) {
+            numtmp = nums2[j++];
+         }
+         else numtmp = nums1[i++];
+         now++;
+      }
+      if ((nums1.size() + nums2.size()) % 2)return b;
+      return (double)(a + b) / 2;
+   }
 };
