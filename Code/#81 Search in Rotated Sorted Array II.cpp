@@ -1,5 +1,5 @@
 /*
-ÎÊÌâ£º
+é—®é¢˜ï¼š
 Follow up for "Search in Rotated Sorted Array":
 What if duplicates are allowed?
 
@@ -14,26 +14,23 @@ The array may contain duplicates.
 */
 
 /*
-Ë¼Â·£º
-ÓÉÓÚÕâµÀÌâÖĞ¶à³öÁËÖØ¸´µÄÊı×Ö£¬Òò´Ë»á³öÏÖÈçÏÂÇé¿ö£º
+æ€è·¯ï¼š
+ç”±äºè¿™é“é¢˜ä¸­å¤šå‡ºäº†é‡å¤çš„æ•°å­—ï¼Œå› æ­¤ä¼šå‡ºç°å¦‚ä¸‹æƒ…å†µï¼š
 2 2 2 0 2 2
-ÒòÎª2ºÍ2ÏàµÈ£¬Ö±½Ó¶ş·Ö»á´í£¬ËùÒÔ°´ÕÕ#33µÄË¼Â·»áWA¡£
-Ö»ĞèÒª°Ñ¼¸ÖÖÇé¿ö¶¼¿¼ÂÇÈ«¾Í¿ÉÒÔÁË¡£
+å› ä¸º2å’Œ2ç›¸ç­‰ï¼Œç›´æ¥äºŒåˆ†ä¼šé”™ï¼Œæ‰€ä»¥æŒ‰ç…§#33çš„æ€è·¯ä¼šWAã€‚
+åªéœ€è¦æŠŠå‡ ç§æƒ…å†µéƒ½è€ƒè™‘å…¨å°±å¯ä»¥äº†ã€‚
 */
 
 class Solution {
 public:
     bool search(vector<int>& nums, int target) {
         int left = 0, right =  nums.size()-1, mid;
-        
         while(left<=right)
         {
             mid = (left + right) >> 1;
             if(nums[mid] == target) return true;
-
             // the only difference from the first one, trickly case, just updat left and right
             if( (nums[left] == nums[mid]) && (nums[right] == nums[mid]) ) {++left; --right;}
-
             else if(nums[left] <= nums[mid])
             {
                 if( (nums[left]<=target) && (nums[mid] > target) ) right = mid-1;
