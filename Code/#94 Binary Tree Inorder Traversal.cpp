@@ -16,6 +16,7 @@ Note: Recursive solution is trivial, could you do it iteratively?
 
 /*
 思路：
+递归解法很简单：
 一个简单的中序遍历，前根后
 */
 
@@ -33,4 +34,28 @@ public:
          inorder(root->right,res);
       }
    }
+};
+
+/*
+但是由于这道题目说不用递归写法，所以我们使用栈来解。
+*/
+
+class Solution {
+public:
+    vector<int> inorderTraversal(TreeNode *root) {
+        vector<int> res;
+        stack<TreeNode*> s;
+        TreeNode *p = root;
+        while (p || !s.empty()) {
+            while (p) {
+                s.push(p);
+                p = p->left;
+            }
+            p = s.top();
+            s.pop();
+            res.push_back(p->val);
+            p = p->right;
+        }
+        return res;
+    }
 };
